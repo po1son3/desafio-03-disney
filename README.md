@@ -6,6 +6,7 @@ si bien en las imagenes no tenia una resolucion por defino como 1920x1080, inten
 ## El no saber bien si poner las <img> dentro de las <p>
 esto hacia que cada imagen este de distinas maneras centradas, esto en el index puse algunas imagenes dentro de las p y otras fuera, intentando que quede mas como las referencias
 ## El no saber como poner en medio de un margen una <img>
-esto fue lo que mas me frustó, no fue hasta después de la ultima clase del jueves que pude entender, debido a que le pregunté a maxi
+esto fue lo que mas me frustó, no fue hasta después de la ultima clase del jueves que pude entender, debido a que le pregunté a maxi.
 
 DE todas maneras quiero disculparme por entregar esto muy tarde,desde ya muchas gracias.
+PD= Utilicé el root, esto no los enseñó maxi en la ultima clase, y quise integrarlo en el desafio, no se si estará bien, porque supuestamente cuando se realizaba el desafio esto no lo "sabiamos".
