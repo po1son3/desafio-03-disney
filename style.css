@@ -1,0 +1,61 @@
+:root {
+--violeta-color: rgb(187, 83, 151);
+--celeste-color: rgb(105, 136, 202);
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    letter-spacing: 30px;
+    color: var(--violeta-color);
+}
+
+h2 {
+font-size: 30px;
+color: var(--violeta-color);
+letter-spacing: 10px;
+
+}
+
+p {
+    font-size: 25px;
+    color: var(--celeste-color);
+    }
+
+
+
+/* clases: */
+
+
+.logo {
+    width: 30%;
+    margin: 0;
+    
+    }
+.pop-century {
+    float: right;
+}
+
+.push-derecha {
+    float: right;
+}
+.texto-centrado {
+    
+}
+
+.texto-derecha{
+    
+margin-right: 50px;
+    
+}
+
+.imagen-izquierda {
+    float: left;
+    margin-right: 20px;
+    width: 700px;
+}
+
+
+.imagen-final {
+    width: 100%;
+}
