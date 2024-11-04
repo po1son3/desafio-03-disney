@@ -18,8 +18,10 @@ letter-spacing: 10px;
 }
 
 p {
-    font-size: 25px;
+    font-family: 'Lucida Sans Unicode';
+    font-size: 24px;
     color: var(--celeste-color);
+
     }
 
 
@@ -31,7 +33,7 @@ p {
     width: 30%;
     margin: 0;
     
-    }
+}
 .pop-century {
     float: right;
 }
@@ -44,7 +46,6 @@ p {
 }
 
 .texto-derecha{
-    
 margin-right: 50px;
     
 }
